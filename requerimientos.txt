@@ -1,0 +1,1 @@
+Se requiere un programa que simule un cajero automático, que permita crear nuevas cuentas, retirar, ingresar y consultar el dinero mediante un número de cuenta y clave.
